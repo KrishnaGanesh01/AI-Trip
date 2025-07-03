@@ -1,4 +1,4 @@
-import Mytrips from '@/Mytrips'; // if not already imported
+import Mytrips from '@/mytrips'; // if not already imported
 
 const NoUser = () => {
     const user = JSON.parse(localStorage.getItem('user'));
